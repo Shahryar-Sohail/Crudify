@@ -2,3 +2,6 @@ CRUDify is a powerful Project designed to simplify the process of creating CRUD 
 Watch the demo video of this project:
 
 ![Alt text](./Crudify%20Login.PNG)
+![Alt text](./Crudify%20AllUser.PNG)
+![Alt text](./Crudify%20AddUser.PNG)
+
